@@ -1,2 +1,2 @@
-# Chart
-BenchMark将在论文发表后开源
+# ChartInsighter
+The benchmark will be open-sourced after the paper is published.
